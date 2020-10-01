@@ -1,4 +1,4 @@
-Proxy
+Proxy An Amazing Project...
 ===============
 A tiny tool for crawling, assessing, storing some useful proxies.[中文版](https://github.com/fancoo/Proxy/blob/master/README.zh-cn.md)
 
