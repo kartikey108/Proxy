@@ -45,3 +45,6 @@ More detail in [crawl_demo.py](https://github.com/fancoo/Proxy/blob/master/crawl
 
 ### Contact
 myfancoo@qq.com
+
+
+# About proxy -https://kb.iu.edu/d/ahoo
